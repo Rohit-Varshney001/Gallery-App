@@ -1,6 +1,6 @@
 # Gallery-App
 In this app you can access you storage photos  
-![](https://user-images.githubusercontent.com/98186477/182402818-561624b0-2572-419f-97eb-ea7983546000.jpg | width=100)
+![](https://user-images.githubusercontent.com/98186477/182402818-561624b0-2572-419f-97eb-ea7983546000.jpg =250x250)
 Clicked on Image :-
 ![IMG_20220802_200944](https://user-images.githubusercontent.com/98186477/182402840-1cdb9119-479e-423a-943c-f3f2335ac34a.jpg)
 Full view of an image :-
